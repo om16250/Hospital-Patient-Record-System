@@ -23,7 +23,7 @@ All data is managed using Python dictionaries while the program is running, maki
 * Create a new Python file named `main.py` and paste the project code into it.
 * Open the terminal inside PyCharm (usually at the bottom of the screen).
 * Run the application by typing the following command and pressing Enter:
-   `pythonfinal.py`
+   `python.py`
 
 # Instructions for testing
 
