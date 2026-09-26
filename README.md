@@ -40,6 +40,6 @@ To verify the system works correctly, try these steps in order:
 
 *Add your PyCharm terminal screenshots here after running the project.*
 
-* Screenshot 1: [Main Menu & Adding a Patient] ![Main menu.png](screenshots/Main%20menu.png),![case 1 adding new patient.png](screenshots/case%201%20adding%20new%20patient.png) 
-* Screenshot 2: [Viewing all records]![case 4 all patient data.png](screenshots/case%204%20all%20patient%20data.png)
-* Screenshot 3: [Screenshot of Successful Update Operation]![case 3 patient data update.png](screenshots/case%203%20patient%20data%20update.png)
+* Screenshot 1: [Main Menu & Adding a Patient]![Main_menu.png](screenshots/Main_menu.png) , ![case_1_adding_new_patient.png](screenshots/case_1_adding_new_patient.png)
+* Screenshot 2: [Viewing all records]![case_4_all_patient_data.png](screenshots/case_4_all_patient_data.png)
+* Screenshot 3: [Screenshot of Successful Update Operation]![case_3_patient_data_update.png](screenshots/case_3_patient_data_update.png)
